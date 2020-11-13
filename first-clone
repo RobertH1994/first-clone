@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Hello World!</title>
+  </head>
+
+  <body>
+    <h1>This is gonna suck</h1>
+
+    <img
+      src="https://i.pinimg.com/originals/69/68/65/696865b0736fe48a7f9628d74fb0b46f.png" alt="Sponge Bob"/>
+
+      <br>
+
+      <a href="https://google.com">Goes to Google.com</a>
+
+      <br>
+
+      <a href="https://google.com" target="_blank">opens new tab</a>
+
+      <br>
+
+      <strong><a href="https://www.youtube.com">this is a bold tag</a></strong>
+
+      <br>
+
+      <a href="#">This is a placeholder link,Goes no where</a>
+
+      <h2>Bonus</h2>
+
+     <h2>Ordered List</h2>
+     <ol>
+     <li>Get the bread and turkey meat</li>
+     <li>Put some meat on one side of sandwhich</li>
+     <li>Add both pieces of bread together</li>
+     <li>Cut sandwhich in half</li>
+     <li>Enjoy!</li>
+     </ol>
+     <h2>Unordered List</h2>
+     <ul>
+     <li>System of a Down</li>
+     <li>Green Day</li>
+     <li>Lil Uzi Vert</li>
+     <li>Russ</li>
+     <li>Denzel Curry</li>
+     </ul>
+
+     <h2>Table</h2>
+     <table style="width: 100%">
+
+      <tr>
+        <th>Animal Class</th>
+        <th>Animal Name</th>
+      </tr>
+
+      <tr>
+        <td>Mammal</td>
+        <td>Hyena</td>
+      </tr>
+
+      <tr>
+        <td>Reptile</td>
+        <td>Iguana</td>
+      </tr>
+
+      <tr>
+        <td>Mammal</td>
+        <td>Chimpanzee</td>
+      </tr>
+
+      <tr>
+        <td>Bird</td>
+        <td>Eagle</td>
+      </tr>
+
+      </table>
+
+      <h2>YouTube</h2>
+
+
+  </body>
+
+</html>
